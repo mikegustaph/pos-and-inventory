@@ -1,7 +1,5 @@
 # pos-and-inventory
-s a laravel(php) based stock/inventory management software that allows you to manage your inventory, sales, purchases, customers, invoices, take payments and much more.
-
-Update your stock information, make purchases and view sales information from anywhere anytime. Whether you are running a small business or a big enterprise, is the solution you need for managing your inventory, purchases, sales – all in one application.
+This is a laravel(php) based stock/inventory management software that allows you to manage your inventory, sales, purchases, customers, invoices, take payments and much more.Update your stock information, make purchases and view sales information from anywhere anytime. Whether you are running a small business or a big enterprise, is the solution you need for managing your inventory, purchases, sales – all in one application.
 --------------------------------------------------------------------------------------------------------------------------------------
 Awesome Features
 --------------------------------------------------------------------------------------------------------------------------------------
