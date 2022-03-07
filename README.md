@@ -8,14 +8,14 @@ Overview & yearly Sales Chart
 5 Latest Sales
 Top 5 best selling products monthly & yearly
 Products
-
+----------------------------------------------------------------------------------------------------------
 Standard Product, Digital Product
 Product Category
 Add, edit, delete & view products
 Print Barcodes
 Import by CSV
 Sales
-
+---------------------------------------------------------------------------------------------------------------
 Add, edit, delete & view sales
 Payments (Multiple add, edit, delete)
 Receive Payments online with Stripe, Paypal
@@ -27,7 +27,7 @@ Add, edit, delete & view quotation
 Add sale from quotation
 Download as pdf
 Purchases
-
+-------------------------------------------------------------------------------------------------------------------
 Add, edit, delete & view purchases
 Payments (Multiple add, edit, delete)
 Import by CSV
@@ -37,14 +37,14 @@ Transfer products to warehouses
 Add, edit, delete & view transfers with status
 Import by CSV
 POS
-
+--------------------------------------------------------------------------------------------------------------------
 User oriented design, touchscreen friendly
 Suspend sales, print order & bill
 Can show bill screen to customers
 Accept multiple payments
 Add sale, payment & staff notes
 People
-
+----------------------------------------------------------------------------------------------------------------------
 Add, edit, delete & view users, assign roles
 Add, edit, delete & view customers, billers, suppliers
 Import customers, billers, suppliers by CSV
@@ -55,7 +55,7 @@ Product quantity & expiry alerts
 Daily, monthly custom sales, payments, profit/loss purchase report
 Customers, supplier, due, best-seller reports
 Settings
-
+-------------------------------------------------------------------------------------------------------------------------
 Edit Logo, Site title
 Change POS settings
 Edit user profile, change password
